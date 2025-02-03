@@ -1,0 +1,40 @@
+[
+    {
+      "city": "Banja Luka",
+      "clinics": [
+        {
+          "name": "Full Dent Banja Luka",
+          "address": "Kralja Milosa 15",
+          "phone1": "051/123-072",
+          "phone2": "",
+          "email": "example@example.com",
+          "JIB": "1234567890",
+          "PDV": "UG-555/22"
+        },
+        {
+          "name": "Simic Dent Banja Luka",
+          "address": "Vidovdanska 2",
+          "phone1": "051/222-333",
+          "phone2": "",
+          "email": "",
+          "JIB": "0987654321",
+          "PDV": "UG-666/22"
+        }
+      ]
+    },
+    {
+      "city": "Sarajevo",
+      "clinics": [
+        {
+          "name": "Dental Studio Sarajevo",
+          "address": "Nedima Filipovica 25",
+          "phone1": "061/430-483",
+          "phone2": "",
+          "email": "dentalstudio@example.com",
+          "JIB": "1234567890",
+          "PDV": "UG-111/22"
+        }
+      ]
+    }
+  ]
+  
